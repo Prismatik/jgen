@@ -50,7 +50,7 @@ function findSchema(id, schema) {
 }
 
 function generateInstance(schema) {
-  
+  generateObject(schema.props)
 }
 
 function generateObject(props) {
@@ -69,7 +69,7 @@ function generateProp(prop) {
 }
 
 function generateType(prop) {
-  switch 
+  return 1
 }
 
 function is(prop, type) {
