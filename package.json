@@ -1,0 +1,33 @@
+{
+  "name": "jgen",
+  "version": "1.0.0",
+  "description": "A JSON instance generator based off JSON schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/jgen"
+  },
+  "keywords": [
+    "JSON",
+    "schema",
+    "JSON",
+    "instance",
+    "generator",
+    "JSON",
+    "random",
+    "generator",
+    "JSON",
+    "schema",
+    "random",
+    "generator"
+  ],
+  "author": "Nick Matenaar <matenaar92@gmail.com> (http://nickmatenaar.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/jgen/issues"
+  },
+  "homepage": "https://github.com/Prismatik/jgen"
+}
