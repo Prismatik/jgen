@@ -4,7 +4,7 @@
   "description": "A JSON instance generator based off JSON schema",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/Prismatik/jgen/issues"
   },
-  "homepage": "https://github.com/Prismatik/jgen"
+  "homepage": "https://github.com/Prismatik/jgen",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
 }
